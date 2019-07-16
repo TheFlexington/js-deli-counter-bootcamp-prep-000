@@ -25,6 +25,10 @@ function currentLine(deliLine) {
   }
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3cd55bc31c6e7750d4dc5835f6df43b6432f21cf
 /*
 function currentLine (array) {
   return array.length === 0
