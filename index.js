@@ -3,6 +3,13 @@ function takeANumber(array, name) {
   return 'Welcome, ' + name + '. You are number ' + array.length + ' in line.';
 }
 
+function takeANumber(array) {
+  let i = 0;
+  i++;
+  array.push(i);
+  return `Welcome you are number ${i} in line`;
+}
+
 
 function nowServing(array) {
   if (array.length === 0) {
